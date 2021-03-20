@@ -9,5 +9,4 @@ def main():
 if __name__== "__main__":
   main()
 
-git commit -m "Hello World"
-git push
+git status
